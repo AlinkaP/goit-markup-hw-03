@@ -319,6 +319,7 @@ li.list {
   width: 370px;
   height: 404px;
   display: inline-block;
+  border: 1px solid #eeeeee;
 }
 
 li.list:nth-child(3n) {
